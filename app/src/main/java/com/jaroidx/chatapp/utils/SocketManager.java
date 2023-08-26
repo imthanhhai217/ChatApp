@@ -1,4 +1,6 @@
-package com.jaroidx.chatapp;
+package com.jaroidx.chatapp.utils;
+
+import com.jaroidx.chatapp.utils.Constants;
 
 import java.net.URISyntaxException;
 

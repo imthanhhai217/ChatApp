@@ -1,11 +1,11 @@
-package com.jaroidx.chatapp;
+package com.jaroidx.chatapp.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.app.Dialog;
 import android.os.Bundle;
-import android.os.Handler;
-import android.util.Log;
+
+import com.jaroidx.chatapp.R;
+import com.jaroidx.chatapp.utils.SocketManager;
 
 import io.socket.client.Socket;
 
