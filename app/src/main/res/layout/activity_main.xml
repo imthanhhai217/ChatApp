@@ -131,6 +131,7 @@
                 android:background="@drawable/bg_edt_round_20"
                 android:hint="@string/message_hint"
                 android:paddingHorizontal="@dimen/_8sdp"
+                android:paddingVertical="@dimen/_2sdp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toStartOf="@id/llSend"
                 app:layout_constraintStart_toStartOf="parent"

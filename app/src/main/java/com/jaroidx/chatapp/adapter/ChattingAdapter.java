@@ -32,7 +32,6 @@ public class ChattingAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
         this.mListChatMessages = mListChatMessages;
         this.mCurrentUid = currentUid;
     }
-
     @NonNull
     @Override
     public RecyclerView.ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
